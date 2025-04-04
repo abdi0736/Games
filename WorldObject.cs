@@ -11,4 +11,4 @@ public abstract class WorldObject
         Lootable = lootable;
         Removable = removable;
     }
-}
+} 

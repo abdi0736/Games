@@ -13,4 +13,5 @@ namespace Games
             return total > 0 ? total : new Random().Next(5, 15); // Basic attack with randomness
         }
     }
+    
 }

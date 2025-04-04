@@ -1,4 +1,4 @@
-namespace Games;
+
 
 // Defence item class
     public class DefenceItem : WorldObject

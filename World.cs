@@ -1,4 +1,4 @@
-namespace Games
+ namespace Games
 {
     // World class to manage the game world
     public class World

@@ -10,4 +10,5 @@
             Hit = hit;
             Range = range;
         }
+
     }

@@ -7,6 +7,7 @@ public Creature(string name, int hitPoints, IAttackStrategy strategy)
             attackStrategy = strategy;
         }
 
+
         // Creature can attack
         public virtual int Hit()
         {
